@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RedSocialDeMusicos</string>
+
+    //Toasts
+    <string name="toast_no_internet">No se pudo establecer la conexión. Por favor compruebe su conexión a internet</string>
+
+    //Botones
+    <string name="login">Conectarse</string>
+    <string name="login_invitado">Entrar como invitado</string>
+    <string name="registrarse">¿No tienes una cuenta? ¡Regístrate!</string>
+
+    //Etc
+    <string name="action_settings">Settings</string>
+</resources>
