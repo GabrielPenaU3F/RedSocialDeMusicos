@@ -8,7 +8,18 @@
     <string name="login">Conectarse</string>
     <string name="login_invitado">Entrar como invitado</string>
     <string name="registrarse">¿No tienes una cuenta? ¡Regístrate!</string>
+    <string name="buscarAnuncios">Escribir un anuncio</string>
+    <string name="escribirAnuncio">Buscar anuncios</string>
+
+    //TextView
+    <string name="bienvenida">Bienvenido!</string>
 
     //Etc
     <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_inicio">ActivityInicio</string>
+    <string name="title_activity_activity_escritura_anuncios">ActivityEscrituraAnuncios</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
 </resources>
